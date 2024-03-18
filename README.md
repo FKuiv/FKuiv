@@ -7,4 +7,4 @@ Currently trying to learn as much as I can about computer science and everything
 
 # Future
 
-After I have finished my time in the EDF, I am going to study computer science in [TalTech](https://taltech.ee/en/).
+After I have finished my time in the EDF, I am going to study computer science at [TalTech](https://taltech.ee/en/).
