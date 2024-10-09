@@ -5,4 +5,4 @@ Started coding in middle school. Doing simple web projects like a calculator and
 
 During the conscription and at the moment I am also doing some freelancing. I have done a few solutions for [Kiek in de Kök](https://linnamuuseum.ee/en/kiek-in-de-kok/) and [Rahvusarhiiv](https://www.ra.ee/). Also I have been working with [Andry Pedak](https://www.pedak.me/) and [Beter Bekend](https://www.beterbekend.nl/) on a few projects. I have been using Javascript, Typescript, Svelte and Sveltekit for all the freelance projects.
 
-Currently trying to learn as much as I can about computer science and everything related to it.
+Currently trying to learn as much as I can about computer science and everything related to it. Started as a Junior Software Engineer at [Pipedrive](https://www.pipedrive.com/) as of October 2024.
