@@ -1,5 +1,5 @@
 
 # About me
 
-- Building the new era of relationships at [Lume](https://lumeapp.eu)
+- Currently making product manufacturing efficient at [Leio](https://leio.io)
 - Previously worked at [Pipedrive](https://www.pipedrive.com/)
